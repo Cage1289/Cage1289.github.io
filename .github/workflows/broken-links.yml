@@ -20,6 +20,7 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
       - "!_bibliography/papers.bib"
+      
   pull_request:
     branches:
       - master
@@ -38,4 +39,5 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
+      - "!_bibliography/papers.bib"
 
