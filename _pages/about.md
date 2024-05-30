@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[LinkedIn](https://www.linkedin.com/in/romanch-sachdeva-906316155/)'>LinkedIn</a>.
+subtitle: <a href='https://www.linkedin.com/in/romanch-sachdeva-906316155/'>LinkedIn</a>.
 
 profile:
   align: right
